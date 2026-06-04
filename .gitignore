@@ -2,6 +2,17 @@
 out/
 !**/src/main/**/out/
 !**/src/test/**/out/
+.idea/
+*.iml
+
+### Libraries ###
+web/WEB-INF/lib/
+
+### Images ###
+web/images/
+
+### Books ###
+web/books/
 
 ### Eclipse ###
 .apt_generated

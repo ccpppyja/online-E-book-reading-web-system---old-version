@@ -15,7 +15,7 @@ A full-stack **Java Servlet + JSP** web application for browsing, searching, and
 
 | Home | Reader | Admin |
 |------|--------|-------|
-| ![Home](docs/screenshots/home.png) | ![Reader](docs/screenshots/reader.png) | ![Admin](docs/screenshots/admin.png) |
+| ![Home](docs/screenshots/home.png) | ![Register](docs/screenshots/Register.PNG) | ![Admin](docs/screenshots/admin.png) |
 
 ## Tech Stack
 

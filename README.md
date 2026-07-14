@@ -13,7 +13,7 @@ A full-stack **Java Servlet + JSP** web application for browsing, searching, and
 
 ## Screenshots
 
-| Home | Reader | Admin |
+| Home | Register | Admin |
 |------|--------|-------|
 | ![Home](docs/screenshots/home.png) | ![Register](docs/screenshots/Register.PNG) | ![Admin](docs/screenshots/admin.png) |
 
